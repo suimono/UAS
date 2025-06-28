@@ -1,0 +1,1358 @@
+2025-06-28 04:44:53,239 - INFO - Found 28 .txt files to process
+2025-06-28 04:44:53,244 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850_20250628044227.txt
+2025-06-28 04:44:53,259 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440_20250628044228.txt
+2025-06-28 04:44:53,307 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658_20250628044228.txt
+2025-06-28 04:44:53,330 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654_20250628044239.txt
+2025-06-28 04:44:53,561 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725_20250628044241.txt
+2025-06-28 04:44:53,612 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948_20250628044242.txt
+2025-06-28 04:44:53,646 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641_20250628044245.txt
+2025-06-28 04:44:53,741 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917_20250628044259.txt
+2025-06-28 04:44:54,001 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101_20250628044315.txt
+2025-06-28 04:44:54,281 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358_20250628044330.txt
+2025-06-28 04:44:54,521 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601_20250628044333.txt
+2025-06-28 04:44:54,587 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437_20250628044334.txt
+2025-06-28 04:44:54,637 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447_20250628044335.txt
+2025-06-28 04:44:54,679 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206_20250628044337.txt
+2025-06-28 04:44:54,716 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736_20250628044339.txt
+2025-06-28 04:44:54,755 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647_20250628044341.txt
+2025-06-28 04:44:54,813 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439_20250628044344.txt
+2025-06-28 04:44:54,862 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424_20250628044344.txt
+2025-06-28 04:44:54,887 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215_20250628044345.txt
+2025-06-28 04:44:54,909 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547_20250628044345.txt
+2025-06-28 04:44:54,931 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829_20250628044346.txt
+2025-06-28 04:44:54,953 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628_20250628044346.txt
+2025-06-28 04:44:54,977 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336_20250628044353.txt
+2025-06-28 04:44:55,100 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815_20250628044402.txt
+2025-06-28 04:44:55,217 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531_20250628044402.txt
+2025-06-28 04:44:55,246 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731_20250628044403.txt
+2025-06-28 04:44:55,273 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512_20250628044403.txt
+2025-06-28 04:44:55,300 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318_20250628044404.txt
+2025-06-28 04:44:55,332 - INFO - Successfully saved 28 cases to data\processed\cases.json
+2025-06-28 13:56:25,454 - INFO - Found 28 .txt files to process
+2025-06-28 13:56:25,463 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850_20250628044227.txt
+2025-06-28 13:56:25,506 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440_20250628044228.txt
+2025-06-28 13:56:25,547 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658_20250628044228.txt
+2025-06-28 13:56:25,580 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654_20250628044239.txt
+2025-06-28 13:56:25,908 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725_20250628044241.txt
+2025-06-28 13:56:25,993 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948_20250628044242.txt
+2025-06-28 13:56:26,036 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641_20250628044245.txt
+2025-06-28 13:56:26,169 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917_20250628044259.txt
+2025-06-28 13:56:26,586 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101_20250628044315.txt
+2025-06-28 13:56:27,003 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358_20250628044330.txt
+2025-06-28 13:56:27,393 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601_20250628044333.txt
+2025-06-28 13:56:27,496 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437_20250628044334.txt
+2025-06-28 13:56:27,551 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447_20250628044335.txt
+2025-06-28 13:56:27,606 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206_20250628044337.txt
+2025-06-28 13:56:27,652 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736_20250628044339.txt
+2025-06-28 13:56:27,702 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647_20250628044341.txt
+2025-06-28 13:56:27,788 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439_20250628044344.txt
+2025-06-28 13:56:27,870 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424_20250628044344.txt
+2025-06-28 13:56:27,902 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215_20250628044345.txt
+2025-06-28 13:56:27,935 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547_20250628044345.txt
+2025-06-28 13:56:27,962 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829_20250628044346.txt
+2025-06-28 13:56:27,989 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628_20250628044346.txt
+2025-06-28 13:56:28,023 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336_20250628044353.txt
+2025-06-28 13:56:28,185 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815_20250628044402.txt
+2025-06-28 13:56:28,361 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531_20250628044402.txt
+2025-06-28 13:56:28,403 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731_20250628044403.txt
+2025-06-28 13:56:28,434 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512_20250628044403.txt
+2025-06-28 13:56:28,468 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318_20250628044404.txt
+2025-06-28 13:56:28,504 - INFO - Successfully saved 28 cases to data\processed\cases.json
+2025-06-28 14:15:47,401 - INFO - Found 28 .txt files to process.
+2025-06-28 14:15:47,416 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 14:15:47,462 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 14:15:47,623 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 14:15:47,760 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 14:15:48,438 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 14:15:48,608 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 14:15:48,711 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 14:15:48,926 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 14:15:49,466 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 14:15:49,952 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 14:15:50,409 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 14:15:50,499 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 14:15:50,648 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 14:15:50,832 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 14:15:51,020 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 14:15:51,163 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 14:15:51,246 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 14:15:51,326 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 14:15:51,352 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 14:15:51,381 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 14:15:51,408 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 14:15:51,435 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 14:15:51,474 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 14:15:51,649 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 14:15:51,825 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 14:15:51,863 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 14:15:51,889 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 14:15:51,944 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 14:15:52,010 - WARNING - Duplicate case_id '113 K_Pid_Sus_2020' found for file 'putusan_113_k_pid.sus_2020_20250627212658.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,010 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,011 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,011 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627211447.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,011 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212206.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,012 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212736.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,012 - WARNING - Duplicate case_id '417 K_Pid_Sus_2014' found for file 'putusan_417_k_pid.sus_2014_20250627212439.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,012 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212215.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,012 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212547.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,013 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212829.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,013 - WARNING - Duplicate case_id '57_Pid_Sus-TPK_2022_PN' found for file 'putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,013 - WARNING - Duplicate case_id '751 K_Pid_Sus_2023' found for file 'putusan_751_k_pid.sus_2023_20250627212318.txt'. Skipping this duplicate entry.
+2025-06-28 14:15:52,014 - WARNING - Removed 12 duplicate case entries.
+2025-06-28 14:15:52,016 - INFO - Successfully saved 16 unique cases to data\processed\cases.json.
+2025-06-28 14:56:44,872 - INFO - Found 28 .txt files to process.
+2025-06-28 14:56:44,883 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 14:56:44,918 - ERROR - Failed to process putusan_110_k_pid.sus_2024_20250627211850.txt (ID: putusan_110_k_pid.sus_2024_20250627211850): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:44,928 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 14:56:44,953 - ERROR - Failed to process putusan_113_k_pid.sus_2020_20250627212440.txt (ID: putusan_113_k_pid.sus_2020_20250627212440): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:44,955 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 14:56:44,993 - ERROR - Failed to process putusan_113_k_pid.sus_2020_20250627212658.txt (ID: putusan_113_k_pid.sus_2020_20250627212658): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:44,995 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 14:56:45,294 - ERROR - Failed to process putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt (ID: putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:45,298 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 14:56:45,383 - ERROR - Failed to process putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt (ID: putusan_14_pid.tpk_2023_pt_plg_20250627211725): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:45,385 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 14:56:45,444 - ERROR - Failed to process putusan_2773_k_pid.sus_2019_20250627212948.txt (ID: putusan_2773_k_pid.sus_2019_20250627212948): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:45,447 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 14:56:45,548 - ERROR - Failed to process putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt (ID: putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:45,551 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 14:56:45,829 - ERROR - Failed to process putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt (ID: putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:45,831 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 14:56:46,118 - ERROR - Failed to process putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt (ID: putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,120 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 14:56:46,402 - ERROR - Failed to process putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt (ID: putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,405 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 14:56:46,473 - ERROR - Failed to process putusan_364_k_pid.sus_2016_20250627212601.txt (ID: putusan_364_k_pid.sus_2016_20250627212601): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,475 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 14:56:46,563 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627211437.txt (ID: putusan_3849_k_pid.sus_2019_20250627211437): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,565 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 14:56:46,654 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627211447.txt (ID: putusan_3849_k_pid.sus_2019_20250627211447): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,657 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 14:56:46,733 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627212206.txt (ID: putusan_3849_k_pid.sus_2019_20250627212206): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,735 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 14:56:46,812 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627212736.txt (ID: putusan_3849_k_pid.sus_2019_20250627212736): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,814 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 14:56:46,876 - ERROR - Failed to process putusan_417_k_pid.sus_2014_20250627211647.txt (ID: putusan_417_k_pid.sus_2014_20250627211647): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,878 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 14:56:46,937 - ERROR - Failed to process putusan_417_k_pid.sus_2014_20250627212439.txt (ID: putusan_417_k_pid.sus_2014_20250627212439): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,939 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 14:56:46,959 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627211424.txt (ID: putusan_4965_k_pid.sus_2023_20250627211424): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,961 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 14:56:46,983 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627212215.txt (ID: putusan_4965_k_pid.sus_2023_20250627212215): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:46,985 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 14:56:47,005 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627212547.txt (ID: putusan_4965_k_pid.sus_2023_20250627212547): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,007 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 14:56:47,029 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627212829.txt (ID: putusan_4965_k_pid.sus_2023_20250627212829): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,031 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 14:56:47,052 - ERROR - Failed to process putusan_5456_k_pid.sus_2022_20250627212628.txt (ID: putusan_5456_k_pid.sus_2022_20250627212628): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,054 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 14:56:47,182 - ERROR - Failed to process putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt (ID: putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,184 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 14:56:47,329 - ERROR - Failed to process putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt (ID: putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,331 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 14:56:47,361 - ERROR - Failed to process putusan_6030_k_pid.sus_2023_20250627212531.txt (ID: putusan_6030_k_pid.sus_2023_20250627212531): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,363 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 14:56:47,385 - ERROR - Failed to process putusan_6092_k_pid.sus_2024_20250627212731.txt (ID: putusan_6092_k_pid.sus_2024_20250627212731): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,387 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 14:56:47,417 - ERROR - Failed to process putusan_751_k_pid.sus_2023_20250627211512.txt (ID: putusan_751_k_pid.sus_2023_20250627211512): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,421 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 14:56:47,442 - ERROR - Failed to process putusan_751_k_pid.sus_2023_20250627212318.txt (ID: putusan_751_k_pid.sus_2023_20250627212318): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:56:47,444 - WARNING - No cases were successfully processed or saved.
+2025-06-28 14:57:00,140 - INFO - Found 28 .txt files to process.
+2025-06-28 14:57:00,146 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 14:57:00,163 - ERROR - Failed to process putusan_110_k_pid.sus_2024_20250627211850.txt (ID: putusan_110_k_pid.sus_2024_20250627211850): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,171 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 14:57:00,194 - ERROR - Failed to process putusan_113_k_pid.sus_2020_20250627212440.txt (ID: putusan_113_k_pid.sus_2020_20250627212440): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,196 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 14:57:00,220 - ERROR - Failed to process putusan_113_k_pid.sus_2020_20250627212658.txt (ID: putusan_113_k_pid.sus_2020_20250627212658): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,222 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 14:57:00,477 - ERROR - Failed to process putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt (ID: putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,480 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 14:57:00,530 - ERROR - Failed to process putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt (ID: putusan_14_pid.tpk_2023_pt_plg_20250627211725): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,532 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 14:57:00,563 - ERROR - Failed to process putusan_2773_k_pid.sus_2019_20250627212948.txt (ID: putusan_2773_k_pid.sus_2019_20250627212948): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,565 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 14:57:00,636 - ERROR - Failed to process putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt (ID: putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,639 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 14:57:00,895 - ERROR - Failed to process putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt (ID: putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:00,897 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 14:57:01,159 - ERROR - Failed to process putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt (ID: putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,162 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 14:57:01,436 - ERROR - Failed to process putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt (ID: putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,439 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 14:57:01,499 - ERROR - Failed to process putusan_364_k_pid.sus_2016_20250627212601.txt (ID: putusan_364_k_pid.sus_2016_20250627212601): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,502 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 14:57:01,576 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627211437.txt (ID: putusan_3849_k_pid.sus_2019_20250627211437): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,578 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 14:57:01,723 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627211447.txt (ID: putusan_3849_k_pid.sus_2019_20250627211447): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,725 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 14:57:01,802 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627212206.txt (ID: putusan_3849_k_pid.sus_2019_20250627212206): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,803 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 14:57:01,872 - ERROR - Failed to process putusan_3849_k_pid.sus_2019_20250627212736.txt (ID: putusan_3849_k_pid.sus_2019_20250627212736): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,874 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 14:57:01,925 - ERROR - Failed to process putusan_417_k_pid.sus_2014_20250627211647.txt (ID: putusan_417_k_pid.sus_2014_20250627211647): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,927 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 14:57:01,975 - ERROR - Failed to process putusan_417_k_pid.sus_2014_20250627212439.txt (ID: putusan_417_k_pid.sus_2014_20250627212439): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,977 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 14:57:01,990 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627211424.txt (ID: putusan_4965_k_pid.sus_2023_20250627211424): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:01,993 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 14:57:02,005 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627212215.txt (ID: putusan_4965_k_pid.sus_2023_20250627212215): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,007 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 14:57:02,017 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627212547.txt (ID: putusan_4965_k_pid.sus_2023_20250627212547): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,020 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 14:57:02,031 - ERROR - Failed to process putusan_4965_k_pid.sus_2023_20250627212829.txt (ID: putusan_4965_k_pid.sus_2023_20250627212829): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,033 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 14:57:02,044 - ERROR - Failed to process putusan_5456_k_pid.sus_2022_20250627212628.txt (ID: putusan_5456_k_pid.sus_2022_20250627212628): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,046 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 14:57:02,164 - ERROR - Failed to process putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt (ID: putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,167 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 14:57:02,285 - ERROR - Failed to process putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt (ID: putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,288 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 14:57:02,306 - ERROR - Failed to process putusan_6030_k_pid.sus_2023_20250627212531.txt (ID: putusan_6030_k_pid.sus_2023_20250627212531): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,307 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 14:57:02,318 - ERROR - Failed to process putusan_6092_k_pid.sus_2024_20250627212731.txt (ID: putusan_6092_k_pid.sus_2024_20250627212731): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,320 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 14:57:02,342 - ERROR - Failed to process putusan_751_k_pid.sus_2023_20250627211512.txt (ID: putusan_751_k_pid.sus_2023_20250627211512): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,344 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 14:57:02,366 - ERROR - Failed to process putusan_751_k_pid.sus_2023_20250627212318.txt (ID: putusan_751_k_pid.sus_2023_20250627212318): cannot process flags argument with a compiled pattern
+Traceback (most recent call last):
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 434, in process_all_cases
+    metadata = extractor.extract_metadata(text)
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 391, in extract_metadata
+    "status_hukuman": self.extract_status_hukuman(text),
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "e:\TUGAS UAS\penalaran\CBR_Project\scripts\02_case_representation.py", line 302, in extract_status_hukuman
+    matches = re.findall(pattern, search_area, re.IGNORECASE | re.DOTALL)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 278, in findall
+    return _compile(pattern, flags).findall(string)
+           ~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\Lib\re\__init__.py", line 345, in _compile
+    raise ValueError(
+        "cannot process flags argument with a compiled pattern")
+ValueError: cannot process flags argument with a compiled pattern
+2025-06-28 14:57:02,368 - WARNING - No cases were successfully processed or saved.
+2025-06-28 14:59:14,407 - INFO - Found 28 .txt files to process.
+2025-06-28 14:59:14,417 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 14:59:14,452 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 14:59:14,487 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 14:59:14,521 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 14:59:14,941 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 14:59:15,023 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 14:59:15,069 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 14:59:15,188 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 14:59:15,642 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 14:59:16,118 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 14:59:16,560 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 14:59:16,661 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 14:59:16,751 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 14:59:16,839 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 14:59:16,933 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 14:59:17,023 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 14:59:17,103 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 14:59:17,200 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 14:59:17,229 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 14:59:17,256 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 14:59:17,288 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 14:59:17,313 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 14:59:17,337 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 14:59:17,547 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 14:59:17,735 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 14:59:17,764 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 14:59:17,782 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 14:59:17,813 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 14:59:17,844 - WARNING - Duplicate case_id '113 K_Pid_Sus_2020' found for file 'putusan_113_k_pid.sus_2020_20250627212658.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,845 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,845 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,845 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627211447.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,846 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212206.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,846 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212736.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,846 - WARNING - Duplicate case_id '417 K_Pid_Sus_2014' found for file 'putusan_417_k_pid.sus_2014_20250627212439.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,846 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212215.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,846 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212547.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,847 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212829.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,847 - WARNING - Duplicate case_id '57_Pid_Sus-TPK_2022_PN' found for file 'putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,847 - WARNING - Duplicate case_id '751 K_Pid_Sus_2023' found for file 'putusan_751_k_pid.sus_2023_20250627212318.txt'. Skipping this duplicate entry.
+2025-06-28 14:59:17,847 - WARNING - Removed 12 duplicate case entries.
+2025-06-28 14:59:17,849 - INFO - Successfully saved 16 unique cases to data\processed\cases.json.
+2025-06-28 15:02:54,479 - INFO - Found 28 .txt files to process.
+2025-06-28 15:02:54,490 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 15:02:54,528 - WARNING - Extracted facts too short (137 chars). Original text had 45231 chars. Attempting aggressive fallback.
+2025-06-28 15:02:54,609 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 15:02:54,654 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 15:02:54,793 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 15:02:54,836 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 15:02:54,952 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 15:02:55,372 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 15:02:55,446 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 15:02:55,495 - WARNING - Extracted facts too short (137 chars). Original text had 81933 chars. Attempting aggressive fallback.
+2025-06-28 15:02:55,506 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 15:02:55,643 - WARNING - Extracted facts too short (137 chars). Original text had 348874 chars. Attempting aggressive fallback.
+2025-06-28 15:02:55,676 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 15:02:56,194 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 15:02:56,693 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 15:02:57,216 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 15:02:57,332 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 15:02:57,438 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:02:58,052 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 15:02:58,182 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:02:58,702 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 15:02:58,806 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:02:59,310 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 15:02:59,449 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:02:59,956 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 15:03:00,045 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,096 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 15:03:00,193 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,241 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 15:03:00,271 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,277 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 15:03:00,303 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,307 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 15:03:00,335 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,339 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 15:03:00,365 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,371 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 15:03:00,397 - WARNING - Extracted facts too short (137 chars). Original text had 41375 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,403 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 15:03:00,634 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 15:03:00,717 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 15:03:00,929 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 15:03:01,007 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 15:03:01,036 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 15:03:01,061 - WARNING - Extracted facts too short (137 chars). Original text had 43548 chars. Attempting aggressive fallback.
+2025-06-28 15:03:01,067 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 15:03:01,099 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 15:03:01,162 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 15:03:01,196 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 15:03:01,260 - WARNING - Duplicate case_id '113 K_Pid_Sus_2020' found for file 'putusan_113_k_pid.sus_2020_20250627212658.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,260 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,260 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,261 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627211447.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,261 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212206.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,261 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212736.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,261 - WARNING - Duplicate case_id '417 K_Pid_Sus_2014' found for file 'putusan_417_k_pid.sus_2014_20250627212439.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,262 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212215.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,262 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212547.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,262 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212829.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,262 - WARNING - Duplicate case_id '57_Pid_Sus-TPK_2022_PN' found for file 'putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,263 - WARNING - Duplicate case_id '751 K_Pid_Sus_2023' found for file 'putusan_751_k_pid.sus_2023_20250627212318.txt'. Skipping this duplicate entry.
+2025-06-28 15:03:01,263 - WARNING - Removed 12 duplicate case entries.
+2025-06-28 15:03:01,266 - INFO - Successfully saved 16 unique cases to data\processed\cases.json.
+2025-06-28 15:26:32,458 - INFO - Found 28 .txt files to process.
+2025-06-28 15:26:32,468 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 15:26:32,729 - WARNING - Extracted facts too short (137 chars). Original text had 45231 chars. Attempting aggressive fallback.
+2025-06-28 15:26:32,826 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 15:26:33,268 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 15:26:33,403 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 15:26:33,770 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 15:26:33,905 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 15:26:34,510 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 15:26:34,839 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 15:26:35,106 - WARNING - Extracted facts too short (137 chars). Original text had 81933 chars. Attempting aggressive fallback.
+2025-06-28 15:26:35,119 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 15:26:35,471 - WARNING - Extracted facts too short (137 chars). Original text had 348874 chars. Attempting aggressive fallback.
+2025-06-28 15:26:35,508 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 15:26:36,264 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 15:26:37,002 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 15:26:37,760 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 15:26:38,145 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 15:26:38,496 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:26:38,979 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 15:26:39,342 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:26:39,897 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 15:26:40,234 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:26:40,720 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 15:26:41,062 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:26:41,561 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 15:26:41,887 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 15:26:41,930 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 15:26:42,248 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 15:26:42,289 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 15:26:42,532 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:26:42,536 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 15:26:42,798 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:26:42,803 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 15:26:43,087 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:26:43,091 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 15:26:43,342 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:26:43,347 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 15:26:43,565 - WARNING - Extracted facts too short (137 chars). Original text had 41375 chars. Attempting aggressive fallback.
+2025-06-28 15:26:43,571 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 15:26:44,021 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 15:26:44,111 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 15:26:44,544 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 15:26:44,619 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 15:26:44,813 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 15:26:45,057 - WARNING - Extracted facts too short (137 chars). Original text had 43548 chars. Attempting aggressive fallback.
+2025-06-28 15:26:45,063 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 15:26:45,327 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 15:26:45,387 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 15:26:45,619 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 15:26:45,680 - WARNING - Duplicate case_id '113 K_Pid_Sus_2020' found for file 'putusan_113_k_pid.sus_2020_20250627212658.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,680 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,681 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,681 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627211447.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,681 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212206.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,681 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212736.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,681 - WARNING - Duplicate case_id '417 K_Pid_Sus_2014' found for file 'putusan_417_k_pid.sus_2014_20250627212439.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,682 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212215.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,682 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212547.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,682 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212829.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,682 - WARNING - Duplicate case_id '57_Pid_Sus-TPK_2022_PN' found for file 'putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,682 - WARNING - Duplicate case_id '751 K_Pid_Sus_2023' found for file 'putusan_751_k_pid.sus_2023_20250627212318.txt'. Skipping this duplicate entry.
+2025-06-28 15:26:45,682 - WARNING - Removed 12 duplicate case entries.
+2025-06-28 15:26:45,698 - INFO - Successfully saved 16 unique cases to data\processed\cases.json.
+2025-06-28 15:27:22,284 - INFO - Found 28 .txt files to process.
+2025-06-28 15:27:22,294 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 15:27:22,541 - WARNING - Extracted facts too short (137 chars). Original text had 45231 chars. Attempting aggressive fallback.
+2025-06-28 15:27:22,620 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 15:27:22,876 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 15:27:22,982 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 15:27:23,242 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 15:27:23,351 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 15:27:23,917 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 15:27:24,197 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 15:27:24,364 - WARNING - Extracted facts too short (137 chars). Original text had 81933 chars. Attempting aggressive fallback.
+2025-06-28 15:27:24,375 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 15:27:24,669 - WARNING - Extracted facts too short (137 chars). Original text had 348874 chars. Attempting aggressive fallback.
+2025-06-28 15:27:24,701 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 15:27:25,344 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 15:27:26,001 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 15:27:26,648 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 15:27:26,934 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 15:27:27,251 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:27:27,718 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 15:27:28,026 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:27:28,494 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 15:27:28,801 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:27:29,290 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 15:27:29,597 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 15:27:30,066 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 15:27:30,360 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 15:27:30,400 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 15:27:30,693 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 15:27:30,736 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 15:27:30,981 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:27:30,985 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 15:27:31,232 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:27:31,236 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 15:27:31,487 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:27:31,492 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 15:27:31,738 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 15:27:31,743 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 15:27:31,956 - WARNING - Extracted facts too short (137 chars). Original text had 41375 chars. Attempting aggressive fallback.
+2025-06-28 15:27:31,961 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 15:27:32,395 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 15:27:32,471 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 15:27:32,886 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 15:27:32,959 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 15:27:33,147 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 15:27:33,385 - WARNING - Extracted facts too short (137 chars). Original text had 43548 chars. Attempting aggressive fallback.
+2025-06-28 15:27:33,390 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 15:27:33,638 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 15:27:33,706 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 15:27:33,961 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 15:27:34,022 - WARNING - Duplicate case_id '113 K_Pid_Sus_2020' found for file 'putusan_113_k_pid.sus_2020_20250627212658.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,022 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,023 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,023 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627211447.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,023 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212206.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,023 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212736.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,024 - WARNING - Duplicate case_id '417 K_Pid_Sus_2014' found for file 'putusan_417_k_pid.sus_2014_20250627212439.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,024 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212215.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,024 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212547.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,024 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212829.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,025 - WARNING - Duplicate case_id '57_Pid_Sus-TPK_2022_PN' found for file 'putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,025 - WARNING - Duplicate case_id '751 K_Pid_Sus_2023' found for file 'putusan_751_k_pid.sus_2023_20250627212318.txt'. Skipping this duplicate entry.
+2025-06-28 15:27:34,025 - WARNING - Removed 12 duplicate case entries.
+2025-06-28 15:27:34,027 - INFO - Successfully saved 16 unique cases to data\processed\cases.json.
+2025-06-28 16:22:28,803 - INFO - Found 28 .txt files to process.
+2025-06-28 16:22:28,814 - INFO - Processing putusan_110_k_pid.sus_2024_20250627211850.txt
+2025-06-28 16:22:29,076 - WARNING - Extracted facts too short (137 chars). Original text had 45231 chars. Attempting aggressive fallback.
+2025-06-28 16:22:29,175 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212440.txt
+2025-06-28 16:22:29,463 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 16:22:29,572 - INFO - Processing putusan_113_k_pid.sus_2020_20250627212658.txt
+2025-06-28 16:22:29,915 - WARNING - Extracted facts too short (137 chars). Original text had 51341 chars. Attempting aggressive fallback.
+2025-06-28 16:22:30,042 - INFO - Processing putusan_140_pid.sus-tpk_2023_pn_sby_20250627211654.txt
+2025-06-28 16:22:30,670 - INFO - Processing putusan_14_pid.tpk_2023_pt_plg_20250627211725.txt
+2025-06-28 16:22:30,955 - INFO - Processing putusan_2773_k_pid.sus_2019_20250627212948.txt
+2025-06-28 16:22:31,149 - WARNING - Extracted facts too short (137 chars). Original text had 81933 chars. Attempting aggressive fallback.
+2025-06-28 16:22:31,162 - INFO - Processing putusan_2_pid.sus-tpk_2023_pt_btn_20250627211641.txt
+2025-06-28 16:22:31,481 - WARNING - Extracted facts too short (137 chars). Original text had 348874 chars. Attempting aggressive fallback.
+2025-06-28 16:22:31,523 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627211917.txt
+2025-06-28 16:22:32,222 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt
+2025-06-28 16:22:32,967 - INFO - Processing putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt
+2025-06-28 16:22:33,656 - INFO - Processing putusan_364_k_pid.sus_2016_20250627212601.txt
+2025-06-28 16:22:34,000 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211437.txt
+2025-06-28 16:22:34,318 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 16:22:34,789 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627211447.txt
+2025-06-28 16:22:35,145 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 16:22:35,617 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212206.txt
+2025-06-28 16:22:35,927 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 16:22:36,442 - INFO - Processing putusan_3849_k_pid.sus_2019_20250627212736.txt
+2025-06-28 16:22:36,763 - WARNING - Extracted facts too short (137 chars). Original text had 107606 chars. Attempting aggressive fallback.
+2025-06-28 16:22:37,230 - INFO - Processing putusan_417_k_pid.sus_2014_20250627211647.txt
+2025-06-28 16:22:37,553 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 16:22:37,594 - INFO - Processing putusan_417_k_pid.sus_2014_20250627212439.txt
+2025-06-28 16:22:37,906 - WARNING - Extracted facts too short (39 chars). Original text had 203678 chars. Attempting aggressive fallback.
+2025-06-28 16:22:37,947 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627211424.txt
+2025-06-28 16:22:38,193 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 16:22:38,198 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212215.txt
+2025-06-28 16:22:38,446 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 16:22:38,451 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212547.txt
+2025-06-28 16:22:38,712 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 16:22:38,717 - INFO - Processing putusan_4965_k_pid.sus_2023_20250627212829.txt
+2025-06-28 16:22:38,966 - WARNING - Extracted facts too short (137 chars). Original text had 35604 chars. Attempting aggressive fallback.
+2025-06-28 16:22:38,971 - INFO - Processing putusan_5456_k_pid.sus_2022_20250627212628.txt
+2025-06-28 16:22:39,194 - WARNING - Extracted facts too short (137 chars). Original text had 41375 chars. Attempting aggressive fallback.
+2025-06-28 16:22:39,199 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211336.txt
+2025-06-28 16:22:39,649 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 16:22:39,741 - INFO - Processing putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt
+2025-06-28 16:22:40,184 - WARNING - Extracted facts too short (47 chars). Original text had 569544 chars. Attempting aggressive fallback.
+2025-06-28 16:22:40,259 - INFO - Processing putusan_6030_k_pid.sus_2023_20250627212531.txt
+2025-06-28 16:22:40,455 - INFO - Processing putusan_6092_k_pid.sus_2024_20250627212731.txt
+2025-06-28 16:22:40,701 - WARNING - Extracted facts too short (137 chars). Original text had 43548 chars. Attempting aggressive fallback.
+2025-06-28 16:22:40,706 - INFO - Processing putusan_751_k_pid.sus_2023_20250627211512.txt
+2025-06-28 16:22:40,961 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 16:22:41,024 - INFO - Processing putusan_751_k_pid.sus_2023_20250627212318.txt
+2025-06-28 16:22:41,270 - WARNING - Extracted facts too short (137 chars). Original text had 38512 chars. Attempting aggressive fallback.
+2025-06-28 16:22:41,330 - WARNING - Duplicate case_id '113 K_Pid_Sus_2020' found for file 'putusan_113_k_pid.sus_2020_20250627212658.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,331 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212101.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,331 - WARNING - Duplicate case_id '35_Pid_Sus-TPK_2020_PN' found for file 'putusan_35_pid.sus-tpk_2020_pn_sby_20250627212358.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,331 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627211447.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,331 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212206.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,332 - WARNING - Duplicate case_id '3849 K_Pid_Sus_2019' found for file 'putusan_3849_k_pid.sus_2019_20250627212736.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,332 - WARNING - Duplicate case_id '417 K_Pid_Sus_2014' found for file 'putusan_417_k_pid.sus_2014_20250627212439.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,332 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212215.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,332 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212547.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,332 - WARNING - Duplicate case_id '4965 K_Pid_Sus_2023' found for file 'putusan_4965_k_pid.sus_2023_20250627212829.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,333 - WARNING - Duplicate case_id '57_Pid_Sus-TPK_2022_PN' found for file 'putusan_57_pid.sus-tpk_2022_pn_pbr_20250627211815.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,333 - WARNING - Duplicate case_id '751 K_Pid_Sus_2023' found for file 'putusan_751_k_pid.sus_2023_20250627212318.txt'. Skipping this duplicate entry.
+2025-06-28 16:22:41,333 - WARNING - Removed 12 duplicate case entries.
+2025-06-28 16:22:41,336 - INFO - Successfully saved 16 unique cases to data\processed\cases.json.

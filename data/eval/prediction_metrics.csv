@@ -1,0 +1,5 @@
+Metrik,BERT,Hybrid,TF-IDF
+Accuracy,87.50%,87.50%,93.75%
+F1-Score,45.71%,46.19%,47.62%
+Precision,60.00%,60.62%,62.50%
+Recall,36.92%,37.31%,38.46%
