@@ -1,7 +1,7 @@
-# IMPLEMENTASI CASE-BASED REASONING UNTUK ANALISIS PUTUSAN PENGADILAN MENGGUNAKAN TF-IDF DAN BERT
+# Implementasi Case-Based Reasoning pada Kasus Tindak Pidana Khusus Korupsi Menggunakan Metode TF-IDF dan BERT
 
 
-Selamat datang di Proyek Case-Based Reasoning (CBR) Hukum! Sistem ini dirancang untuk memanfaatkan pengetahuan dari kasus-kasus hukum sebelumnya guna membantu dalam penemuan informasi (information retrieval) dan prediksi pasal-pasal hukum yang relevan untuk kasus baru. Dengan mengintegrasikan berbagai metode canggih dan evaluasi yang komprehensif, proyek ini bertujuan untuk menjadi alat bantu yang andal dalam analisis kasus hukum.
+Penelitian ini bertujuan untuk mengembangkan sistem berbasis Case-Based Reasoning (CBR) guna membantu proses analisis dan pencarian kasus serupa dalam tindak pidana khusus, khususnya korupsi. Untuk meningkatkan kualitas representasi teks dan akurasi temu kembali kasus, digunakan dua pendekatan pemrosesan bahasa alami, yaitu TF-IDF sebagai metode tradisional berbasis statistik, dan BERT sebagai model representasi berbasis pembelajaran mendalam (deep learning). Hasil dari kedua pendekatan dibandingkan untuk menilai efektivitas masing-masing dalam konteks CBR.
 
 # Gambaran Umum Proyek (Project Overview)
 Dalam dunia hukum, putusan-putusan pengadilan dan kasus-kasus terdahulu merupakan sumber informasi yang sangat berharga. Proyek ini mengadopsi paradigma Case-Based Reasoning (CBR), di mana solusi untuk masalah baru dicari dengan mengadaptasi solusi dari masalah-masalah serupa yang pernah diselesaikan. Secara spesifik, kami membangun pipeline yang mencakup:
