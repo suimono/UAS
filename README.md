@@ -1,7 +1,7 @@
-# Implementasi Case-Based Reasoning pada Kasus Tindak Pidana Khusus Korupsi Menggunakan Metode TF-IDF dan BERT
+# Implementasi Case-Based Reasoning pada Kasus Tindak Pidana Khusus Korupsi Menggunakan Metode TF-IDF, BERT DAN HYBRID
 
 
-Penelitian ini bertujuan untuk mengembangkan sistem berbasis Case-Based Reasoning (CBR) guna membantu proses analisis dan pencarian kasus serupa dalam tindak pidana khusus, khususnya korupsi. Untuk meningkatkan kualitas representasi teks dan akurasi temu kembali kasus, digunakan dua pendekatan pemrosesan bahasa alami, yaitu TF-IDF sebagai metode tradisional berbasis statistik, dan BERT sebagai model representasi berbasis pembelajaran mendalam (deep learning). Hasil dari kedua pendekatan dibandingkan untuk menilai efektivitas masing-masing dalam konteks CBR.
+Penelitian ini bertujuan untuk mengembangkan sistem berbasis Case-Based Reasoning (CBR) guna membantu proses analisis dan pencarian kasus serupa dalam tindak pidana khusus, khususnya korupsi. Untuk meningkatkan kualitas representasi teks dan akurasi temu kembali kasus, digunakan dua pendekatan pemrosesan bahasa alami, yaitu TF-IDF sebagai metode tradisional berbasis statistik, dan BERT sebagai model representasi berbasis pembelajaran mendalam (deep learning).Dan juga metode HYBRID.
 
 # Gambaran Umum Proyek (Project Overview)
 Dalam dunia hukum, putusan-putusan pengadilan dan kasus-kasus terdahulu merupakan sumber informasi yang sangat berharga. Proyek ini mengadopsi paradigma Case-Based Reasoning (CBR), di mana solusi untuk masalah baru dicari dengan mengadaptasi solusi dari masalah-masalah serupa yang pernah diselesaikan. Secara spesifik, kami membangun pipeline yang mencakup:
@@ -141,4 +141,4 @@ Berisi ringkasan tahapan, diagram pipeline, metrik evaluasi, serta diskusi kasus
 ## ✨ Credits
 
 * Dibuat oleh: Ellyas Prambudyas
-* Proyek ini ditujukan untuk pembelajaran sistem penalaran berbasis kasus (CBR) dengan domain hukum (putusan pengadilan).
+* Proyek ini ditujukan untuk pembelajaran sistem penalaran berbasis kasus (CBR) dengan domain hukum (putusan pengadilan tindak pidana khusunya KORUPSI).
