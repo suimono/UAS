@@ -1,4 +1,4 @@
-# Implementasi Case-Based Reasoning pada Kasus Tindak Pidana Khusus Korupsi Menggunakan Metode TF-IDF, BERT DAN HYBRID
+# Implementasi Case-Based Reasoning pada Kasus Tindak Pidana Korupsi Menggunakan Metode TF-IDF, BERT DAN HYBRID
 
 
 Penelitian ini bertujuan untuk mengembangkan sistem berbasis Case-Based Reasoning (CBR) guna membantu proses analisis dan pencarian kasus serupa dalam tindak pidana khusus, khususnya korupsi. Untuk meningkatkan kualitas representasi teks dan akurasi temu kembali kasus, digunakan dua pendekatan pemrosesan bahasa alami, yaitu TF-IDF sebagai metode tradisional berbasis statistik, dan BERT sebagai model representasi berbasis pembelajaran mendalam (deep learning).Dan juga metode HYBRID.
